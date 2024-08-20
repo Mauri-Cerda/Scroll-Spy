@@ -7,7 +7,6 @@ El Scroll Spy detecta la posición del usuario en la página y resalta automáti
 Para implementarlo en JavaScript, se suelen usar eventos de scroll y métodos para determinar la posición del usuario en relación con las secciones de la página.
 
 # Ejemplo de Scroll-Spy
-<img src="[https://github.com/Mauri-Cerda/Mauri-Cerda/blob/main/portada.png](https://github.com/Mauri-Cerda/Scroll-Spy/blob/main/img/README1.png)">
-
 <img src="https://github.com/Mauri-Cerda/Scroll-Spy/blob/main/img/README2.png">
+<img src="https://github.com/Mauri-Cerda/Scroll-Spy/blob/main/img/README1.png">
 
